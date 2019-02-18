@@ -1,0 +1,87 @@
+body{
+	background-image: url("asd.jpg");
+}
+p:hover{
+	background-color: red;
+}
+div:hover
+{
+	background-color: red;
+}
+h2:hover
+{
+	background-color: red;
+}
+h1:hover
+{
+	background-color: red;
+}
+h3:hover
+{
+	background-color: red;
+}div.article img:hover
+{
+	background-color: red;
+}
+div#wrapper {
+   border: 10px yellow solid;
+   background-color: #E8FBFB ;
+   margin: 10px 10%;
+}#header{
+	
+	text-anchor: right;
+	background: #A8F0F0;
+}
+div.article img{
+	float: right;
+}
+#header h2
+{
+	font-size: 14pt;
+}
+div#header{
+	border: 4px green solid;
+	text-align: right;
+}
+div#header h2 {
+	
+	text-align: right;
+}
+.article {
+	border: 5px blue solid;
+}
+div.article{
+	border: 4px green solid;
+	overflow: hidden;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+span.d{
+	border-bottom: 2px red dashed;
+}
+div.articl {
+	width: 120px;
+float: left;
+border: 4px green solid;
+text-align: center;
+padding-left: 10px;
+	margin:  15px 1px 5px 1px ;
+}
+div.articl li{
+text-align: center;
+}
+
+div.article {
+	background-color: #E8FBFB;
+	
+	
+}
+div.article {
+	
+	padding-left: 10px;
+	margin:  1px 1px 5px 150px ;
+}
+
+
+
